@@ -1,0 +1,17 @@
+title: Ian Flynn
+description: Full-Stack Developer
+site_title: '@byteofflynn - Ian Flynn'
+
+# Build settings
+markdown: kramdown
+exclude: [vendor/ruby]
+
+# Personalization
+github_username: ByteOfFlynn
+email: byteofflynn@gmail.com
+
+# absolute or relative
+profile_picture: assets/images/pp.jpg
+
+# Google Analytics ID
+google_analytics: 
